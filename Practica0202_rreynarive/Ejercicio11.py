@@ -1,5 +1,5 @@
 #Cuenta de ahorro
-intereses_anuales = 4/100
+intereses_anuales = 4 / 100
 deposito = float(input("Deposite su dinero:\n"))
 
 calculo = deposito + (deposito * intereses_anuales)
