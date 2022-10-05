@@ -1,5 +1,5 @@
 inicio = 3.49
-pan_nofresco = (inicio-(inicio*0.6))
+pan_nofresco = (inicio - (inicio * 0.6))
 final = round(pan_nofresco, 2)
 
 compra = int(input("¿Cuantas barras va a comprar?"))
